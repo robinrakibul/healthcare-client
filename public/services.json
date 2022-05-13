@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Search doctor",
+        "description": "Choose your doctor from thousands of specialist, general, and trusted hospitals",
+        "img": "https://i.ibb.co/19hbzb4/Frame1.png"
+    },
+    {
+        "id": 2,
+        "name": "Online pharmacy",
+        "description": "Buy  your medicines with our mobile application with a simple delivery system",
+        "img": "https://i.ibb.co/9tJMf0K/Frame2.png"
+    },
+    {
+        "id": 3,
+        "name": "Consultation",
+        "description": "Free consultation with our trusted doctors and get the best recomendations",
+        "img": "https://i.ibb.co/hKRt2r4/Frame3.png"
+    },
+    {
+        "id": 4,
+        "name": "Details info",
+        "description": "Check all the information and then decide what to do",
+        "img": "https://i.ibb.co/wQ1QPN9/Frame4.png"
+    },
+    {
+        "id": 5,
+        "name": "Emergency care",
+        "description": "You can get 24/7 urgent care for yourself or your children and your lovely family",
+        "img": "https://i.ibb.co/fDTCRz3/Frame5.png"
+    },
+    {
+        "id": 6,
+        "name": "Tracking",
+        "description": "Track and save your medical history and health data",
+        "img": "https://i.ibb.co/F3RtdV4/Frame6.png"
+    }
+]
